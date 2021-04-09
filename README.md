@@ -1,2 +1,4 @@
 # JavaTemplateInBigData
- 包含了在学习Bigdata过程中编写过的Java代码模板
+本仓库包含了我在学习Bigdata过程中编写过的Java代码模板。
+
+1. PhoenixJDBCDemo：为Phoenix使用标准JDBC API代替HBase客户端API来操作表和数据的代码模板。
