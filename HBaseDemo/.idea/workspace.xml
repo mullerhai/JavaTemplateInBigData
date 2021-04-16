@@ -4,29 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa94de8a-57f2-44b2-8466-ee63c8b53ca7" name="Default Changelist" comment="增加HBase通过API操作表和数据的代码模板" />
+    <list default="true" id="8592ba85-ed49-4aaa-8b78-b9e884079fa1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -40,10 +25,7 @@
   <component name="MavenRunner">
     <option name="delegateBuildToMaven" value="true" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
-  </component>
-  <component name="ProjectId" id="1qvwo6t9ZLZNwFScxjspW0ucKdg" />
+  <component name="ProjectId" id="1qxHTD5qOc0l5QijdV0YZmQxWRH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -59,40 +41,20 @@
     <property name="project.structure.side.proportion" value="0.24820144" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\YOGA\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fa94de8a-57f2-44b2-8466-ee63c8b53ca7" name="Default Changelist" comment="" />
-      <created>1617973545469</created>
+      <changelist id="8592ba85-ed49-4aaa-8b78-b9e884079fa1" name="Default Changelist" comment="" />
+      <created>1618014329456</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1617973545469</updated>
-      <workItem from="1617973546802" duration="779000" />
+      <updated>1618014329456</updated>
+      <workItem from="1618014331787" duration="9000" />
+      <workItem from="1618227802659" duration="44000" />
     </task>
-    <task id="LOCAL-00001" summary="增加HBase通过API操作表和数据的代码模板">
-      <created>1617974036895</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1617974036896</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,9 +70,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="增加HBase通过API操作表和数据的代码模板" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加HBase通过API操作表和数据的代码模板" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

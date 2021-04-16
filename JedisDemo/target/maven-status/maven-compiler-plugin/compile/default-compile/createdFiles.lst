@@ -1,0 +1,4 @@
+com\jedis\demo\JedisPoolDemo.class
+com\jedis\demo\SentinelPoolDemo.class
+com\jedis\demo\JedisClusterDemo.class
+com\jedis\demo\JedisDemo.class
